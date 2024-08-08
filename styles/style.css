@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+header{
+    border: 2px solid rgb(13, 46, 117);
+    margin-bottom: 20px;
+    background-color: #3d4a59;
+    color: #000;
+    border-radius: 50px 0 50px 0;
+}
+   
+
+.fofa {
+    margin-top: 9px;
+    ;
+    display: flex;
+    justify-content: space-around;
+}
+
+.fofa li a:hover {
+    border-bottom: 2px solid red;
+    font-size: 19px;
+}
+
+.fofa li a {
+    color: #fff;
+    text-decoration: none;
+    padding-bottom: 20px;
+    margin-top: 6px;
+    display: inline-block;
+}
+li {
+    list-style-type: none;
+ }
+section {
+    border: 2px solid rgb(13, 46, 117);
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 25px rgb(12, 4, 4);
+    width: 97%;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 45px 0;
+}
+
+.right,
+.lift {
+    width: 49%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+div {
+    display: flex;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 0px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3d4a59;
+    color: #fff;
+    border-radius: 17px;
+    padding: 20px 0;
+}
+
+.may {
+    border-radius: 50%;
+    border-left: 2px solid #ff8a00;
+    border-right: 2px solid #ff8a00;
+    border-bottom: 2px solid #e57e71;
+    border-top: 2px solid #e57e71;
+}
+
+article h5 {
+    font-size: 20px;
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 10px;
+}
+
+.lift h3 {
+    font-size: 26px;
+    margin: 20px 0;
+}
+
+.lift p {
+    font-size: 19px;
+    margin: 25px 0;
+}
+
+.ding {
+    background-color: #3d4a59;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+
+.folwa {
+    box-shadow: 0px 30px 0 rgb(0 0 0 /25%);
+    border-radius: 10px;
+    padding: 16px 0;
+    text-align: center;
+    margin: 0 auto 10px;
+    border-top: 6px solid #3d4a59;
+    opacity: 0.8;
+    width: 99%;
+}
+
+.folwa a {
+    border: 1px solid #3d4a59;
+    border-radius: 4px;
+    padding: 4px 10px;
+    text-decoration: none;
+}
+
+.folwa a :hover {
+    padding: 5px 12px;
+    background-color: blue;
+    color: #fff;
+}
